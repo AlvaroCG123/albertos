@@ -1,0 +1,55 @@
+body{
+	background-color: #ffc22b;
+	font-family: Arial,"Trebuchet MS",sans-serif;
+}
+
+#bagulho-cima{
+	background-color: #143a5e;
+}
+
+#logo{
+	padding: 10px;
+	padding-bottom: 30px;
+}
+
+#pagina{
+	background-color: white;
+	background-position: center;
+	padding: 10px;
+	padding-bottom: 40px;
+
+}
+
+#imagens{
+	padding: 10px;
+	padding-left: 40px;
+}
+
+#rodape{
+	background-color: yellow;
+	padding: 30px;
+	text-align: center;
+}
+
+.botao a{
+	display: block;
+	color: black;
+	text-decoration: none;
+	background-color: #ffc22b;
+	tex
+	padding: 10px;
+	width: 100px;
+	text-align: center;
+}
+
+.botao a:hover{
+	display: block;
+	color: #FFF;
+	text-decoration: none;
+	background-color: #143a5e;
+	tex
+	padding: 10px;
+	width: 100px;
+	text-align: center;
+}
+}
